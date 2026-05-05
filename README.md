@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://AgentSquareOfficial.github.io/social-links-profile-main)
+- Live Site URL: [View my site](https://AgentSquareOfficial.github.io/social-links-profile-main)
 
 ## My process
 
